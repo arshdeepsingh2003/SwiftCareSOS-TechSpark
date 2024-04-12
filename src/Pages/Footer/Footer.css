@@ -1,0 +1,48 @@
+.healthcare-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 40rem;
+   }
+   
+   .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+   }
+   
+   .footer-content p {
+    margin-bottom: 0px;
+   }
+   
+   .footer-content nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+   }
+   
+   .footer-content nav a:hover {
+    text-decoration: underline;
+   }
+   
+   .social-icons {
+    margin-top: 20px;
+   }
+   
+   .social-icons a {
+    color: #fff;
+    margin: 0 5px;
+   }
+   
+   .social-icons a:hover {
+    color: #ccc;
+   }
+   
+   .social-icons i {
+    font-size: 24px;
+   }
+   @media screen and (max-width:768px){
+    .healthcare-footer{
+        margin-top: 550%;
+    }
+   }
